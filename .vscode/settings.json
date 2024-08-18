@@ -15,6 +15,9 @@
   "editor.formatOnSave": true,
   "git.mergeEditor": false,
     "cSpell.words": [
+        "interps",
+        "ints",
+        "unawaited",
         "wireframe"
     ]
 }
